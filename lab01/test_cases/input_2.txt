@@ -1,0 +1,6 @@
+5
+pass
+pass
+fail
+fail
+fail
